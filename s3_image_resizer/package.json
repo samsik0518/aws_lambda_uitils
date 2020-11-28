@@ -1,0 +1,9 @@
+{
+  "name": "s3-image-resizer",
+  "version": "1.0.0",
+  "scripts": {},
+  "dependencies": {
+    "aws-sdk": "^2.799.0",
+    "sharp": "^0.26.3"
+  }
+}
